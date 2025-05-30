@@ -39,3 +39,6 @@ __pycache__/
 
 # Jupyter Notebook checkpoints (if using Jupyter)
 .ipynb_checkpoints/
+
+# ML models
+models/
