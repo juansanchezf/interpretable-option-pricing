@@ -99,12 +99,12 @@ pip freeze > requirements.txt
 
 All data files are included to allow full reproducibility. The exact execution order is:
 
-1. 0. OptionScrapping.ipynb
-2. 1. dataCleansing.ipynb
-3. 2. EDA.ipynb
-4. 3.1, 3.2, 3.3 for model training
-5. 4. outlierAnalysis.ipynb
-6. Extra\* notebooks for interpretability experiments.
+0. OptionScrapping.ipynb
+1. dataCleansing.ipynb
+2. EDA.ipynb
+3. Model trainings
+4. outlierAnalysis.ipynb
+5. Extra\* notebooks for interpretability experiments.
 
 ## Author
 
